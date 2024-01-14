@@ -2,7 +2,7 @@
 
 Crunchyroll a KODI (XBMC) plugin for Crunchyroll.com.
 
-Git repo: https://github.com/MrKrabat/plugin.video.crunchyroll
+Original Git repo: https://github.com/MrKrabat/plugin.video.crunchyroll
 
 Forum posting: xxx
 
